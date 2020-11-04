@@ -1,0 +1,37 @@
+#first_img {
+    opacity: 1;
+}
+
+#first_img:hover {
+    opacity: 0.8;
+}
+
+body {
+    text-align: center;
+}
+
+#first_img {
+    width: 350px;
+    height: 350px;
+}
+
+#section1 {
+    max-width: 500px;
+    background-color: #8e8e8e;
+    color: #ffffff;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 90px;
+}
+
+ul {
+    list-style: none;
+}
+
+.frame_style {
+    max-width: 500px;
+    margin: 10px;
+    height: 500px;
+    border: 1px solid;
+}
