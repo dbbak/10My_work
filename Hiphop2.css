@@ -1,0 +1,38 @@
+.first {
+    width: 600px;
+    color: aliceblue;
+}
+
+.first, td {
+    border: 5px solid;
+    border-color:aliceblue;
+    border-collapse: collapse;
+    margin: 5px auto;
+    padding: 5px;
+    background-color: #8e8e8e; 
+}
+
+.left {
+    text-align: center;
+    width: 150px;
+    background-color: #535353;
+}
+
+.right {
+    background-color: #8e8e8e;
+}
+
+section {
+    margin-top: 50px;
+    padding: 5px;
+}
+
+div {
+    margin: 20px;
+}
+
+.second {
+    width: 600px;
+    color: #ffffff;
+    background-color: aliceblue;
+}
